@@ -1,8 +1,15 @@
-- 👋 Hi, I’m codepig
-- 👀 I’m interested in eat and sleep
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me no way
+<img align="right" alt="GIF" src="https://github.com/Yqchilde/Yqchilde/blob/master/code.gif" width="400" height="100%" />
+
+<br />
+<br />
+
+- 👋 Hi, I’m ZoXu
+- 👀 I’m working as a Golang Engineer
+- 🌱 I’m currently learning golang,kubernetes and so on..
+- 💞️ I’m looking to collaborate on Micro-service,Service-Mesh,PaaS, SaaS and so on…
+- 💬 Ask me about Anything you want~
+- 💻 My blog: www.zoxu.life
+- 📮 Reach me: zhouxu0928@126.com
 
 <!---
 Zoxu0928/Zoxu0928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
