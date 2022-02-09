@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning golang,kubernetes and so on..
 - 💞️ I’m looking to collaborate on Micro-service,Service-Mesh,PaaS, SaaS and so on…
 - 💬 Ask me about Anything you want~
-- 💻 My blog: www.zoxu.life
+- 💻 My blog: https://zoxu.life
 - 📮 Reach me: zhouxu0928@126.com
 
 <!---
